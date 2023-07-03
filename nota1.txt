@@ -18,3 +18,10 @@ g++ ejemplo1.cpp -o ejemplo.exe
 INSTANCIAR 
 separa Bytes de 
 RAM para mis Objetos
+
+
+LEER : 
+
+CLEAN CODE
+
+windows api
